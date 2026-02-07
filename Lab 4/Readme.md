@@ -163,7 +163,10 @@ Training logs show accuracy increasing significantly across epochs, indicating s
 # 👨‍💻 Author
 
 **Harshit Chaudhary**
+
 Bennett University
+
+
 Generative AI • Deep Learning
 
 ---
