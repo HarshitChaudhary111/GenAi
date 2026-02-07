@@ -106,11 +106,13 @@ Total Loss = Reconstruction Loss + KL Divergence
 
 * Sharper reconstructions
 * Lower loss values
+<img width="1140" height="510" alt="image" src="https://github.com/user-attachments/assets/562fc1b8-363f-4118-b9dd-11a92234315d" />
 
 ## After KL Divergence (VAE)
 
 * Slightly blurrier outputs
 * Better probabilistic representation
+<img width="1140" height="491" alt="image" src="https://github.com/user-attachments/assets/8aab33a4-add7-47ff-ad6c-a302c6e9e8d5" />
 
 ---
 
